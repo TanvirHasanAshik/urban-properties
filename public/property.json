@@ -1,0 +1,435 @@
+{
+    "website": {
+        "title": "Urban Property Marketplace",
+        "description": "An online marketplace for businesses, entrepreneurs, and individuals to find and list commercial properties across various categories.",
+        "purpose": "To provide a user-friendly platform for buying, selling, and renting commercial properties like offices, warehouses, entertainment venues, restaurants, and retail spaces. The platform also enables property owners to list and promote their properties easily.",
+        "features": [
+            {
+                "title": "Easy Property Search",
+                "description": "Search properties easily with filters for location, type, budget, etc.",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPK0tDKRDGJbERyQry3r2r8ms8m0lWQEyOGw&s"
+            },
+            {
+                "title": "Detailed Property Listings",
+                "description": "Listings include images, descriptions, and contact information.",
+                "image": "https://cdn-icons-png.flaticon.com/512/1/1755.png"
+            },
+            {
+                "title": "Booking System",
+                "description": "Book co-working spaces, meeting rooms, and event venues.",
+                "image": "https://cdn-icons-png.flaticon.com/512/5110/5110947.png"
+            },
+            {
+                "title": "Review System",
+                "description": "Review properties and services to make informed decisions.",
+                "image": "https://cdn-icons-png.freepik.com/256/707/707675.png?semt=ais_hybrid"
+            },
+            {
+                "title": "Agent and Landlord Profiles",
+                "description": "Connect directly with agents and landlords.",
+                "image": "https://st2.depositphotos.com/41231304/43416/v/380/depositphotos_434167470-stock-illustration-landlord-icon-black-vector-sign.jpg"
+            },
+            {
+                "title": "Regular Updates",
+                "description": "Stay updated with events, offers, and new properties.",
+                "image": "https://cdn-icons-png.freepik.com/256/6373/6373820.png?semt=ais_hybrid"
+            }
+        ],
+        "categories": [
+            {
+                "name": "Office",
+                "image": "https://www.designoffices.de/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F9mt55bm0937w%2F2p8uqXmuVCs4wsuJqkrQjr%2Ff3184b9ac7e65f091660802e264e520b%2FKey_Visual_Office_Spaces_Nuernberg_City_Flexible_Office_1.jpg&w=3840&q=75",
+                "description": "Browse a variety of office spaces suitable for startups, freelancers, and established businesses. Whether you need a quiet back office, a professional corporate space, or a collaborative co-working space, our platform offers flexible solutions.",
+                "sub_categories": [
+                    {
+                        "title": "Back Office",
+                        "images": [
+                            "https://i.ibb.co.com/YRj5YXL/img1.jpg",
+                            "https://i.ibb.co.com/x2530bm/img2.jpg",
+                            "https: //i.ibb.co.com/nj4S74w/img3.jpg"
+                        ],
+                        "details": "Private, quiet spaces specifically designed for back-office operations.",
+                        "benefits": [
+                            "Cost-effective solution for office operations.",
+                            "Ideal for administrative teams that do not need to interact directly with clients.",
+                            "Access to shared office amenities."
+                        ],
+                        "action": "rent"
+                    },
+                    {
+                        "title": "Conference",
+                        "images": [
+                            "https://i.ibb.co.com/Q9Bx6cc/architectural-3384683-1280.jpg",
+                            "https://i.ibb.co.com/ZddGDdm/meeting-1177453-1280.jpg",
+                            "https://i.ibb.co.com/8YtCmgp/meeting-room-1806702-1280.jpg",
+                            "https://i.ibb.co.com/QFPqsvr/office-6883509-1280.jpg"
+                        ],
+                        "details": "Well-equipped conference rooms for meetings and events.",
+                        "benefits": [
+                            "High-quality audio and visual equipment.",
+                            "Flexible room configurations.",
+                            "Convenient booking options."
+                        ],
+                        "action": "book"
+                    },
+                    {
+                        "title": "Corporate",
+                        "images": [
+                            "https://i.ibb.co.com/TB4Mx8W/canteen.jpg",
+                            "https://i.ibb.co.com/m8M1NfD/img1.jpg",
+                            "https://i.ibb.co.com/N93QV88/img2.jpg",
+                            "https://i.ibb.co.com/YXXZRnB/img3.jpg"
+                        ],
+                        "details": "Spacious, modern corporate offices designed for established businesses.",
+                        "benefits": [
+                            "Professional environment ideal for meetings and corporate events.",
+                            "Premium services like concierge and administrative support."
+                        ],
+                        "action": "rent"
+                    },
+                    {
+                        "title": "Co-working Space",
+                        "image": [
+                            "https://i.ibb.co.com/1Xw2TmS/img1.jpg",
+                            "https://i.ibb.co.com/c1b8x6t/img2.jpg",
+                            "https://i.ibb.co.com/yRPynsF/img3.jpg"
+                        ],
+                        "details": "Flexible co-working spaces that foster collaboration and creativity.",
+                        "benefits": [
+                            "Access to a collaborative network.",
+                            "Affordable solutions with flexible leasing options.",
+                            "All-inclusive amenities."
+                        ],
+                        "action": "book"
+                    }
+                ]
+            },
+            {
+                "name": "Industrial",
+                "image": "https://www.steelcobuildings.com/wp-content/uploads/2024/06/AdobeStock_815349117_Preview.jpeg",
+                "description": "Explore a range of industrial properties for manufacturing, storage, and logistics operations.",
+                "sub_categories": [
+                    {
+                        "title": "Gas & Oil",
+                        "image": [
+                            "https://i.ibb.co.com/4mFjHd6/istockphoto-476996170-1024x1024.jpg",
+                            "https://i.ibb.co.com/YPKmYtR/istockphoto-477001346-1024x1024.jpg",
+                            "https://i.ibb.co.com/jZkMcDr/istockphoto-495191525-1024x1024.jpg",
+                            "https://i.ibb.co.com/CstJTKS/istockphoto-1381376333-1024x1024.jpg"
+                        ],
+                        "details": "Gas and oil facilities for the storage and distribution of petroleum products.",
+                        "benefits": [
+                            "Ideal for large-scale energy operations.",
+                            "Strategic location for efficient transportation.",
+                            "24/7 access to utilities."
+                        ],
+                        "action": "rent"
+                    },
+                    {
+                        "title": "Logistics Facility",
+                        "image": [
+                            "https://i.ibb.co.com/55MdbcT/istockphoto-824351914-1024x1024.jpg",
+                            "https://i.ibb.co.com/WWxSR8B/istockphoto-1149754751-1024x1024.jpg",
+                            "https://i.ibb.co.com/hCyWKzH/istockphoto-1278553034-1024x1024.jpg",
+                            "https://i.ibb.co.com/vxKKhSg/istockphoto-1942952652-1024x1024.jpg"
+                        ],
+                        "details": "Logistics facilities for transportation and distribution of goods.",
+                        "benefits": [
+                            "Large-scale warehouses optimized for distribution.",
+                            "Located near transport hubs.",
+                            "Advanced security and monitoring systems."
+                        ],
+                        "action": "rent"
+                    },
+                    {
+                        "title": "Powerplant",
+                        "images": [
+                            "https: //i.ibb.co.com/nDY7qFD/istockphoto-184886278-1024x1024.jpg",
+                            "https://i.ibb.co.com/5h5KBm9/istockphoto-1340413200-1024x1024.jpg",
+                            "https://i.ibb.co.com/wwqZWMN/istockphoto-1443576938-1024x1024.jpg",
+                            "https://i.ibb.co.com/bR3PPKH/istockphoto-2166495284-1024x1024.jpg",
+                            "https://i.ibb.co.com/bR1bMW6/istockphoto-2168809160-1024x1024.jpg"
+                        ],
+                        "details": "Energy generation facilities including power plants and substations.",
+                        "benefits": [
+                            "Renewable and non-renewable energy sources.",
+                            "Large-scale infrastructure for high-capacity production.",
+                            "Government incentives for clean energy."
+                        ],
+                        "action": "rent"
+                    },
+                    {
+                        "title": "Storage",
+                        "image": [
+                            "https://i.ibb.co.com/LCdx1Wc/istockphoto-909526266-1024x1024.jpg",
+                            "https://i.ibb.co.com/2Pf7mqJ/istockphoto-980921586-1024x1024.jpg",
+                            "https://i.ibb.co.com/MhWmFB5/istockphoto-1284193221-1024x1024.jpg",
+                            "https://i.ibb.co.com/n1kzTv6/istockphoto-1474043725-1024x1024.jpg"
+                        ],
+                        "details": "Secure storage facilities with climate control and ample space.",
+                        "benefits": [
+                            "Climate-controlled options for sensitive goods.",
+                            "Flexible lease terms.",
+                            "Advanced security features."
+                        ],
+                        "action": "rent"
+                    }
+                ]
+            },
+            {
+                "name": "Entertainment",
+                "image": "https://metaverse-southafrica.co.za/wp-content/uploads/2024/08/how-the-metaverse-is-reshaping-the-entertainment-industry.jpg",
+                "description": "Explore diverse entertainment venues for hosting events, attractions, and leisure activities.",
+                "sub_categories": [
+                    {
+                        "title": "Amusement Park",
+                        "image": [
+                            "https://i.ibb.co.com/gjvDbDB/img1.jpg",
+                            "https://i.ibb.co.com/qj6DvzP/img2.jpg",
+                            "https://i.ibb.co.com/PwnD4n6/img3.jpg",
+                            "https://i.ibb.co.com/Q6kjCHc/img4.jpg",
+                            "https://i.ibb.co.com/ydZ7qTD/img5.jpg"
+                        ],
+                        "details": "Amusement parks offering a variety of attractions.",
+                        "benefits": [
+                            "High foot traffic for increased revenue.",
+                            "Attractions for all age groups.",
+                            "Perfect for large-scale events."
+                        ],
+                        "action": "rent"
+                    },
+                    {
+                        "title": "Bowling",
+                        "image": [
+                            "https://i.ibb.co.com/L8L9ydr/img1.jpg",
+                            "https://i.ibb.co.com/ZTCQrxh/img2.jpg",
+                            "https://i.ibb.co.com/XpnphrS/img3.jpg",
+                            "https://i.ibb.co.com/QbXLH9c/img4.jpg"
+                        ],
+                        "details": "Modern bowling alleys for recreational and competitive play.",
+                        "benefits": [
+                            "Ideal for team-building and corporate events.",
+                            "Revenue from game fees and food sales.",
+                            "Attractive for families and groups."
+                        ],
+                        "action": "rent"
+                    },
+                    {
+                        "title": "Museum",
+                        "image": [
+                            "https://i.ibb.co.com/L169nQY/img1.jpg",
+                            "https://i.ibb.co.com/cYkNyGZ/img2.jpg",
+                            "https://i.ibb.co.com/MN8ccCs/img3.jpg",
+                            "https://i.ibb.co.com/3MVF35h/img4.jpg"
+                        ],
+                        "details": "Museums offering exhibitions in history, culture, and art.",
+                        "benefits": [
+                            "Attracts tourists and students.",
+                            "Revenue from ticket sales and events.",
+                            "Promotes community engagement."
+                        ],
+                        "action": "rent"
+                    },
+                    {
+                        "title": "Zoo",
+                        "image": [
+                            "https://i.ibb.co.com/MDhkkjL/img1.jpg",
+                            "https://i.ibb.co.com/12dC7ck/img2.jpg",
+                            "https://i.ibb.co.com/SnvRV6N/img3.jpg",
+                            "https://i.ibb.co.com/QnF6Zyp/img4.jpg"
+                        ],
+                        "details": "Zoos featuring a variety of animals from around the world.",
+                        "benefits": [
+                            "Attracts large visitor base.",
+                            "Revenue from tickets, merchandise, and food services.",
+                            "Educational programs for wildlife conservation."
+                        ],
+                        "action": "rent"
+                    }
+                ]
+            },
+            {
+                "name": "Restaurants",
+                "image": "https://eu-assets.simpleview-europe.com/derry/imageresizer/?image=%2Fdbimgs%2F415986103_754998756656431_558247282325211096_n.jpg&action=FeaturedItemsScroll20193x2",
+                "description": "Browse a variety of restaurant properties, from casual dining to high-end eateries.",
+                "sub_categories": [
+                    {
+                        "title": "Bakery",
+                        "image": [
+                            "https://i.ibb.co.com/k8KS5Ns/img1.jpg",
+                            "https://i.ibb.co.com/6JF4sw7/img2.jpg",
+                            "https://i.ibb.co.com/tMp3Xyh/img3.jpg",
+                            "https://i.ibb.co.com/9rnWmzN/img4.jpg"
+                        ],
+                        "details": "Bakeries offering freshly baked goods.",
+                        "benefits": [
+                            "Steady revenue from daily product sales.",
+                            "Opportunities for custom cakes and catering."
+                        ],
+                        "action": "rent"
+                    },
+                    {
+                        "title": "Buffet",
+                        "image": [
+                            "https://i.ibb.co.com/bvH6bMV/img1.jpg",
+                            "https://i.ibb.co.com/NnN0fGV/img2.jpg",
+                            "https://i.ibb.co.com/nD7KhpW/img3.jpg",
+                            "https://i.ibb.co.com/Rh0PRXG/img4.jpg"
+                        ],
+                        "details": "Buffet-style restaurants offering all-you-can-eat dining.",
+                        "benefits": [
+                            "Attracts large groups and families.",
+                            "High turnover with all-you-can-eat format."
+                        ],
+                        "action": "rent"
+                    },
+                    {
+                        "title": "Casual Dining Restaurant",
+                        "image": [
+                            "https://i.ibb.co.com/4myYQvH/img1.jpg",
+                            "https://i.ibb.co.com/BnPZ2pk/img2.jpg",
+                            "https://i.ibb.co.com/YZwnQbw/img3.jpg",
+                            "https://i.ibb.co.com/gThsVbH/img4.jpg"
+                        ],
+                        "details": "Casual dining restaurants offering a relaxed dining experience.",
+                        "benefits": [
+                            "Affordable dining options for a wide audience.",
+                            "Revenue from food and beverages."
+                        ],
+                        "action": "rent"
+                    },
+                    {
+                        "title": "Fast Food Restaurant",
+                        "image": [
+                            "https://i.ibb.co.com/k6kS9fW/img1.jpg",
+                            "https://i.ibb.co.com/6nch9RM/img2.jpg",
+                            "https://i.ibb.co.com/37XXrJM/img3.jpg",
+                            "https://i.ibb.co.com/khjmpqX/img4.jpg"
+                        ],
+                        "details": "Fast food restaurants providing quick meals at affordable prices.",
+                        "benefits": [
+                            "High volume of customers due to fast service.",
+                            "Revenue from large customer base."
+                        ],
+                        "action": "rent"
+                    }
+                ]
+            },
+            {
+                "name": "Retail",
+                "image": "https://d2gsqvrtuna5bz.cloudfront.net/2023/12/retailmedianetworks_2.png.webp",
+                "description": "Browse a variety of retail properties for your business needs.",
+                "sub_categories": [
+                    {
+                        "title": "Boutique",
+                        "image": [
+                            "https://i.ibb.co.com/6D4F30x/istockphoto-181314428-1024x1024.jpg",
+                            "https://i.ibb.co.com/3hPxkFC/istockphoto-1171484305-1024x1024.jpg",
+                            "https://i.ibb.co.com/m6pbNnX/istockphoto-1409728562-1024x1024.jpg"
+                        ],
+                        "details": "Boutiques offering unique, high-end fashion and products.",
+                        "benefits": [
+                            "Attracts affluent customers.",
+                            "Opportunity for exclusive collections and brand promotion."
+                        ],
+                        "action": "rent"
+                    },
+                    {
+                        "title": "Home Furnished",
+                        "image": [
+                            "https://i.ibb.co.com/NLWxxdX/istockphoto-1160660782-1024x1024.jpg",
+                            "https://i.ibb.co.com/2SCyXk0/istockphoto-1350859272-1024x1024.jpg",
+                            "https://i.ibb.co.com/wQjKKWV/istockphoto-2191389643-1024x1024.jpg"
+                        ],
+                        "details": "Retail spaces for home furnishing and interior decoration stores.",
+                        "benefits": [
+                            "Attracts customers looking for home improvement solutions.",
+                            "Potential for high-ticket sales from home decor items."
+                        ],
+                        "action": "rent"
+                    },
+                    {
+                        "title": "Supermarket",
+                        "image": [
+                            "https://i.ibb.co.com/RvhnNSK/istockphoto-185894153-1024x1024.jpg",
+                            "https://i.ibb.co.com/V3RP6N2/istockphoto-1514053596-1024x1024.jpg",
+                            "https://i.ibb.co.com/bsY3KWz/istockphoto-1556119299-1024x1024.jpg"
+                        ],
+                        "details": "Supermarkets offering a wide range of food and household products.",
+                        "benefits": [
+                            "Large customer base and steady revenue.",
+                            "Perfect for high-traffic locations."
+                        ],
+                        "action": "rent"
+                    }
+                ]
+            },
+            {
+                "name": "Warehouse",
+                "image": "https://www.intekfreight-logistics.com/hubfs/Warehouse%20Exterior%20%281%29.png",
+                "description": "Browse a variety of warehouse properties for distribution, food storage, manufacturing, and more.",
+                "sub_categories": [
+                    {
+                        "title": "Distribution",
+                        "image": [
+                            "https://i.ibb.co.com/55MdbcT/istockphoto-824351914-1024x1024.jpg",
+                            "https://i.ibb.co.com/WWxSR8B/istockphoto-1149754751-1024x1024.jpg",
+                            "https://i.ibb.co.com/hCyWKzH/istockphoto-1278553034-1024x1024.jpg",
+                            "https://i.ibb.co.com/vxKKhSg/istockphoto-1942952652-1024x1024.jpg"
+                        ],
+                        "details": "Warehouses designed for the storage and distribution of goods.",
+                        "benefits": [
+                            "Large-scale storage solutions with optimized layouts.",
+                            "Strategic locations near transport hubs."
+                        ],
+                        "action": "rent"
+                    },
+                    {
+                        "title": "Food",
+                        "image": [
+                            "https://i.ibb.co.com/HDBN9kt/istockphoto-1182262163-1024x1024.jpg",
+                            "https://i.ibb.co.com/ZS5MXbX/istockphoto-1250254976-1024x1024.jpg",
+                            "https://i.ibb.co.com/w7TBBHL/istockphoto-1359340421-1024x1024.jpg",
+                            "https://i.ibb.co.com/fkbqZpK/istockphoto-1470231744-1024x1024.jpg"
+                        ],
+                        "details": "Temperature-controlled warehouses ideal for perishable food items.",
+                        "benefits": [
+                            "Climate-controlled spaces for sensitive goods.",
+                            "Compliance with food safety regulations."
+                        ],
+                        "action": "rent"
+                    },
+                    {
+                        "title": "Manufacture",
+                        "image": [
+                            "https://i.ibb.co.com/4ZGS2YX/img1.jpg",
+                            "https://i.ibb.co.com/xjw9BvF/img2.jpg",
+                            "https://i.ibb.co.com/qMpwrCy/img3.jpg"
+                        ],
+                        "details": "Warehouses equipped for manufacturing operations.",
+                        "benefits": [
+                            "Spacious facilities for production and assembly.",
+                            "High ceilings and industrial-grade flooring."
+                        ],
+                        "action": "rent"
+                    },
+                    {
+                        "title": "Storage",
+                        "image": [
+                            "https://i.ibb.co.com/LCdx1Wc/istockphoto-909526266-1024x1024.jpg",
+                            "https://i.ibb.co.com/2Pf7mqJ/istockphoto-980921586-1024x1024.jpg",
+                            "https://i.ibb.co.com/MhWmFB5/istockphoto-1284193221-1024x1024.jpg",
+                            "https://i.ibb.co.com/n1kzTv6/istockphoto-1474043725-1024x1024.jpg"
+                        ],
+                        "details": "General-purpose storage warehouses offering flexible leasing options.",
+                        "benefits": [
+                            "Variety of storage sizes.",
+                            "24/7 access and high-security features."
+                        ],
+                        "action": "rent"
+                    }
+                ]
+            }
+        ]
+    }
+}

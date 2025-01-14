@@ -1,0 +1,37 @@
+{
+    "title": "Urban Property Marketplace",
+    "description": "An online marketplace for businesses, entrepreneurs, and individuals to find and list commercial properties across various categories.",
+    "purpose": "To provide a user-friendly platform for buying, selling, and renting commercial properties like offices, warehouses, entertainment venues, restaurants, and retail spaces. The platform also enables property owners to list and promote their properties easily.",
+    "features": [
+        {
+            "title": "Easy Property Search",
+            "description": "Search properties easily with filters for location, type, budget, etc.",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPK0tDKRDGJbERyQry3r2r8ms8m0lWQEyOGw&s"
+        },
+        {
+            "title": "Detailed Property Listings",
+            "description": "Listings include images, descriptions, and contact information.",
+            "image": "https://cdn-icons-png.flaticon.com/512/1/1755.png"
+        },
+        {
+            "title": "Booking System",
+            "description": "Book co-working spaces, meeting rooms, and event venues.",
+            "image": "https://cdn-icons-png.flaticon.com/512/5110/5110947.png"
+        },
+        {
+            "title": "Review System",
+            "description": "Review properties and services to make informed decisions.",
+            "image": "https://cdn-icons-png.freepik.com/256/707/707675.png?semt=ais_hybrid"
+        },
+        {
+            "title": "Agent and Landlord Profiles",
+            "description": "Connect directly with agents and landlords.",
+            "image": "https://st2.depositphotos.com/41231304/43416/v/380/depositphotos_434167470-stock-illustration-landlord-icon-black-vector-sign.jpg"
+        },
+        {
+            "title": "Regular Updates",
+            "description": "Stay updated with events, offers, and new properties.",
+            "image": "https://cdn-icons-png.freepik.com/256/6373/6373820.png?semt=ais_hybrid"
+        }
+    ]
+}
